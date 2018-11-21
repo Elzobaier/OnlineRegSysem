@@ -1,0 +1,85 @@
+/* header css control */
+header {
+    width: 95%;
+    direction: rtl;
+    height: 120px;
+    margin: 0 auto ;
+    margin-top:20px;
+    background-color: #fbfbfb;
+    
+}
+.logo{
+    float: right;
+    width: 120px;
+}
+.p-header {
+    margin-right: 135px;
+    text-align: right;
+    font-size: 42px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 1.02857143;
+}
+/* leader photo css control*/
+
+.leader-head{
+    width: 95%;
+    margin: 0 auto;
+    text-align: right;
+}
+
+/*content css control*/
+.content{
+    width: 95%;
+    margin: 0 auto;
+}
+.sec1{
+    width: 70%;
+    border-radius: 10px;
+    background-color: #eef1f2;
+    float: left;
+}
+.art-head{
+
+    width: 100%;
+    height: 40px;
+    color: #eef1f2;
+    background-color: #5fbf75;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 8px;
+    font-size: 25px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.art-body1{
+    width: 95%;
+    height: 100%;
+}
+.art-body2{
+    width:95%;
+    margin : 15px auto ;
+
+
+}
+.sec2{
+    width: 29.8%;
+    background-color: #eef1f2;
+     border-radius: 10px;
+}
+.col-menu{
+    text-align: right;
+}
+.col-menu a{
+    text-decoration: none;
+}
+
+/*footer css control*/
+
+.cfooter{
+    background-color: #007740;
+    width: 95%;
+    border-radius: 8px;
+    margin :0 auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+

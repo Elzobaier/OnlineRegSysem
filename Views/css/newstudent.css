@@ -1,0 +1,34 @@
+form {
+    border: 20px solid #f1f1f1;
+    text-align: center;
+margin-right: 99px;
+}
+
+/* Full-width inputs */
+input[type=text]{
+    width: 500px;
+    padding: 12px 20px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #ff9933;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 201px;
+}
+
+
+button:hover {
+    color: #ccc;
+}
+
+/* Add padding to containers */
+.container {
+    padding: 16px;
+}
